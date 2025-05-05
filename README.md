@@ -36,11 +36,7 @@ To someone that doesnt know the cipher, all of this will look like absolute gibb
 
 ## Usage
 
-Run the script:
-
-```bash
-python morsedecoder.py
-
+Commands:
 - Encode (e) a plain english word or phrase into gibberish 
 
 - Decode (d) gibberish back into readable English (if you're decoding a phrase, make sure to put commas between the words or itll all blend together!)
@@ -50,6 +46,14 @@ python morsedecoder.py
 - Quit (q) the program
 
 
-## Enjoy
+Run the script:
+
+```bash
+python morsedecoder.py
+
+
+
+
+
 
 
