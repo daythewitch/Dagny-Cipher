@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/082ce04e-4506-449c-aa71-c4a547fb77b0)
 
-# ⭐🌀 Dagny's Cipher 🌀⭐
-
 A fun python text encoder/decoder for a cipher i invented that uses morse-code based rules.
 Perfect for:
 - Learning and practicing Morse-Code
@@ -9,13 +7,13 @@ Perfect for:
 - Confusing people
 
 ---
-## What is Morse Code?
+## ⭐ What is Morse Code? ⭐
 
 Before you understand this cipher, you have to generally understand how morse code works. 
 
 Morse code was invented my Samuel Morse for communicating long distances using the telegraph. In Morse Code, every single letter is made up of 'Dots' and 'Dashes'. For example, the world "Hello" would be ".... . .-.. .-.. ---". Using this system, you can communicate in english soley using dots and dashes- even though its a little slower.
 
-## How My Cipher Works
+## ⭐ How My Cipher Works ⭐
 
 Morse code is very well known and recognizable- so for my cipher, I wanted to use the same idea, but make it unrecognizable.
 
@@ -36,7 +34,7 @@ To someone that doesnt know the cipher, all of this will look like absolute gibb
 
 ---
 
-## Usage
+## ⭐ Usage ⭐
 
 Commands:
 - Encode (e) a plain english word or phrase into gibberish 
