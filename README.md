@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/082ce04e-4506-449c-aa71-c4a547fb77b0)
+
 # ⭐🌀 Dagny's Cipher 🌀⭐
 
 A fun python text encoder/decoder for a cipher i invented that uses morse-code based rules.
